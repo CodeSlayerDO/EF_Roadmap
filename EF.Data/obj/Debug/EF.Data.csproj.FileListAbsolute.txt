@@ -1,0 +1,12 @@
+C:\Users\CodeSlayer\Source\Repos\HES\MVC EF Roadmap\EF.Data\bin\Debug\EF.Data.dll.config
+C:\Users\CodeSlayer\Source\Repos\HES\MVC EF Roadmap\EF.Data\bin\Debug\EF.Data.dll
+C:\Users\CodeSlayer\Source\Repos\HES\MVC EF Roadmap\EF.Data\bin\Debug\EF.Data.pdb
+C:\Users\CodeSlayer\Source\Repos\HES\MVC EF Roadmap\EF.Data\bin\Debug\EF.Core.dll
+C:\Users\CodeSlayer\Source\Repos\HES\MVC EF Roadmap\EF.Data\bin\Debug\EntityFramework.dll
+C:\Users\CodeSlayer\Source\Repos\HES\MVC EF Roadmap\EF.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CodeSlayer\Source\Repos\HES\MVC EF Roadmap\EF.Data\bin\Debug\EF.Core.pdb
+C:\Users\CodeSlayer\Source\Repos\HES\MVC EF Roadmap\EF.Data\bin\Debug\EntityFramework.xml
+C:\Users\CodeSlayer\Source\Repos\HES\MVC EF Roadmap\EF.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CodeSlayer\Source\Repos\HES\MVC EF Roadmap\EF.Data\obj\Debug\EF.Data.csprojResolveAssemblyReference.cache
+C:\Users\CodeSlayer\Source\Repos\HES\MVC EF Roadmap\EF.Data\obj\Debug\EF.Data.dll
+C:\Users\CodeSlayer\Source\Repos\HES\MVC EF Roadmap\EF.Data\obj\Debug\EF.Data.pdb
